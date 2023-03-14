@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from The Philippines</h3>
 
 
-- 🔭 I’m currently working on **iTipid an android app that checks financial records of user to help guide them with personal finance**
+- 🔭 I’m currently working on **iTipid an Android app that checks the financial records of the user to help guide them with personal finance.**
 
 - 🌱 I’m currently learning **Mobile Development specifically Kotlin**
 
